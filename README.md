@@ -1,7 +1,7 @@
 # basicPorgrammingExercise
-Name: dikri ali
-student number: 20230040064
-study program: informatic engineering
+Name: Dikri Ali
+Student Number: 20230040064
+Study Program: Informatic Engineering
 
 Name : Mohammad Naufal Maulana
 Student Number : 20230040070
