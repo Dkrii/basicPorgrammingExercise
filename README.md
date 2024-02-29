@@ -3,6 +3,7 @@ Name: Dikri Ali
 Student Number: 20230040064
 Study Program: Informatic Engineering
 
+#collaborates with :
 Name : Chairil Sutisna
 Student Number : 20230040056
 Study Program : Infomaatics Engineering
